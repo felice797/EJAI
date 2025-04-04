@@ -3,3 +3,4 @@
 secrets.py
 /data/keys.txt
 .DS_Store
+/all_downloaded_pdfs

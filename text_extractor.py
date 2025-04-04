@@ -6,15 +6,21 @@ from io import BytesIO
 import csv
 
 class PDFTextExtractor:
-    def __init__(self, csv_file, download_pdfs=True, output_csv="extracted_texts.csv", output_txt="extracted_text.txt"):
+    def __init__(self, csv_file, download_pdfs=True, download_dir="downloaded_pdfs", output_csv="extracted_texts.csv", output_txt="extracted_text.txt", output_dir=""):
         """Initializes the extractor with a CSV file and processing options."""
         self.csv_file = csv_file
         self.download_pdfs = download_pdfs  # Toggle to download PDFs or process in memory
-        self.download_dir = "downloaded_pdfs"
+        self.download_dir = download_dir
         os.makedirs(self.download_dir, exist_ok=True)
 
-        self.output_csv = output_csv
-        self.output_txt = output_txt
+        # NEW: Optional output directory for CSV and TXT
+        self.output_dir = output_dir
+        if self.output_dir:
+            os.makedirs(self.output_dir, exist_ok=True)
+
+        # Set output file paths using output_dir if provided
+        self.output_csv = os.path.join(self.output_dir, output_csv)
+        self.output_txt = os.path.join(self.output_dir, output_txt)
 
     def download_pdf(self, url, save_path):
         """Downloads a PDF from a given URL and saves it locally."""
