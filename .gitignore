@@ -1,0 +1,5 @@
+# .gitignore
+/__pycache__
+secrets.py
+/data/keys.txt
+.DS_Store

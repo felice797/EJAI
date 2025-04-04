@@ -46,6 +46,20 @@ class PDFTextExtractor:
         except Exception as e:
             print(f"Error extracting text: {e}")
             return None
+        
+    def extract_text_from_pdf_url(self, pdf_url):
+        """Downloads PDF from URL and extracts text."""
+        try:
+            response = requests.get(pdf_url, stream=True, headers={"User-Agent": "Mozilla/5.0"})
+            if response.status_code == 200:
+                pdf_data = BytesIO(response.content)
+                return self.extract_text_from_pdf(pdf_data, is_file=False)
+            else:
+                print(f"Failed to fetch PDF: HTTP {response.status_code}")
+                return None
+        except Exception as e:
+            print(f"Error fetching PDF: {e}")
+            return None
 
     def process_csv(self):
         """Reads the CSV file, processes PDFs, and saves extracted text."""

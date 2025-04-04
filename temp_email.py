@@ -7,15 +7,7 @@ import re
 # Base URL for Mail.tm API
 MAIL_TM_BASE_URL = "https://api.mail.tm"
 
-# # Example Usage
-# if __name__ == "__main__":
-#     temp_email = TempEmail()
-#     api_key = temp_email.fetch_api_key()
 
-#     if api_key:
-#         print(f"Successfully retrieved API key: {api_key}")
-#     else:
-#         print("API key retrieval failed.")
 
 class TempEmail:
     """Class to handle temporary email creation, authentication, and message retrieval."""
@@ -34,10 +26,13 @@ class TempEmail:
     def get_valid_domain(self):
         """Fetches a valid domain for creating an account."""
         response = requests.get(f"{MAIL_TM_BASE_URL}/domains")
+        print(response.json())
         if response.status_code == 200:
             domains = response.json().get("hydra:member", [])
             if domains:
+                print(domains)
                 return domains[0]["domain"]
+            
         print("No valid domains available.")
         return None
 
@@ -62,7 +57,7 @@ class TempEmail:
         """Retrieves an authentication token for the created account."""
         url = f"{MAIL_TM_BASE_URL}/token"
         payload = {"address": self.email_address, "password": self.password}
-
+        time.sleep(5)
         response = requests.post(url, json=payload)
         if response.status_code == 200:
             self.token = response.json()["token"]
@@ -135,3 +130,13 @@ class TempEmail:
             time.sleep(2)
         print("No messages received.")
         return None
+    
+# # Example Usage
+# if __name__ == "__main__":
+#     temp_email = TempEmail()
+#     api_key = temp_email.fetch_api_key()
+
+#     if api_key:
+#         print(f"Successfully retrieved API key: {api_key}")
+#     else:
+#         print("API key retrieval failed.")
