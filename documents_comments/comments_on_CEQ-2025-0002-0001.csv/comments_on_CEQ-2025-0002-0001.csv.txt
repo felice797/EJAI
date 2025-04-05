@@ -1,0 +1,585 @@
+
+--- COMMENT ID: CEQ-2025-0002-88065 AND DOCKET ID: CEQ-2025-0002 ---
+March 27, 2025
+Council on Environmental Quality
+730 Jackson Place NW
+Washington, DC 20503
+Re: Docket No. CEQ-2025-0002
+We are writing to provide comments on the interim final rule developed by Council on 
+Environmental Quality (CEQ) that would remove the council’s NEPA implementation, titled 
+Removal of National Environmental Policy Act Implementing Regulations, referred to as “interim 
+final rule” (docket no. CEQ-2025-0002). We are environmental health researchers who study 
+health effects of various physical and chemical exposures from many different environments in 
+the United States and across the globe. Our institutional affiliation is included for identification 
+purposes only, and we declare no actual or perceived financial conflicts of interest.
+Our letter contains alternative considerations apart from removing CEQ’s NEPA implementation, 
+namely related to conflict of interest. We think our suggestions would improve and potentially 
+streamline the NEPA process. Without CEQ NEPA implementation, each federal agency would 
+still be required to carry out NEPA procedures, but these procedures vary by agency, creating a 
+patchwork of inconsistent and outdated implementation.1 We also highlight the importance of 
+notice and comment procedures for the nation’s public in CEQ’s NEPA procedures.
+As the interim final rule states, NEPA requires environmental impact statements (EIS) for major 
+federal actions that may have significant effects on the quality of the human environment. 
+NEPA, which is overseen by the CEQ, is intended to serve as a procedural tool for EISs to 
+provide environmental impacts for a range of actions that can be considered by a federal 
+agency. Since NEPA’s creation in 1969, it has been the subject of changing requirements in 
+different executive orders, as summarized in the interim final rule, as well as thousands of 
+lawsuits.
+The statute’s language on “major federal actions” that can cause “significant” effects have been 
+contested, as have agencies’ full consideration of EISs in decision-making, timing of EIS 
+preparation, type of potential harm considered, and exclusions.1 The vast majority of these 
+cases can be traced to conflict of interest issues. The role of conflicts of interest in EIS 
+development has been well-documented.2,3
+One of the most well-known examples of conflict of interests impacting NEPA was seen in the 
+Deepwater Horizon spill nearly 50 miles off the coast of Louisiana in 2010. In 2009, the Minerals 
+Management Service within the Department of the Interior decided that oil exploration in the 
+Gulf of Mexico was exempt from a full EIS under NEPA.4 Even before this exemption, MMS was 
+                                               
+1 Salzman, J. and Thompson, Jr., B. Chapter 12: The National Environmental Policy Act. In: Salzman, J. 
+and Thompson, Jr., B. Environmental Law and Policy. 5th ed. Foundation Press; 2019:339-354.
+2 Colleen McGrath, Three’s A Crowd: Conflicts of Interest in Third- Party Preparation of Environmental 
+Impact Statements and Evolving Agency Responsibility Under NEPA, 29 Hastings Envt'l L.J. 165 (2023)
+3 Hansen, R. P., Wolff, T. A., and McCold, L. N. The conflict of interest problem in EIS preparation. 22nd 
+Annual Conference of the National Association of Environmental Professionals, Orlando, FL (United 
+States), 19-23 May 1997. Accessible: https://digital.library.unt.edu/ark:/67531/metadc676383/
+4 Minerals Management Service. Environmental Documents Prepared for Proposed Oil, Gas, and Mineral 
+Operations by the Gulf of Mexico Outer Continental Shelf (OCS) Region. April 15, 2009. Available:
+https://www.federalregister.gov/documents/2009/04/15/E9-8525/environmental-documents-prepared-for-
+proposed-oil-gas-and-mineral-operations-by-the-gulf-of-mexico
+
+under investigation for violating conflicts of interest and was found to engage in “a culture of 
+ethical failure” by the DOI Office of Inspector General.5 Coverage of the investigation 
+summarized: “Government officials in charge of collecting billions of dollars worth of royalties 
+from oil and gas companies accepted gifts, steered contracts to favored clients and engaged in 
+drug use and illicit sex with employees of the energy firms.”6 It is not surprising that MMS 
+declined the need for an EIS for British Petroleum’s Deepwater Horizon project.
+The undeniable regulatory capture of US federal agencies creates a challenging and ineffective 
+environment for these agencies to perform their duties. This also paves the ground for 
+expensive and time-consuming lawsuits. Therefore, we recommend three potential actions for 
+CEQ to implement conflict of interest and ethics rules for NEPA implementation.
+1. Development an Environmental and Public Health Advisory Board to assist federal 
+agencies in their decisions to require an EIS and their EIS interpretation. Members of the 
+proposed advisory board would be experts in environmental and public health and 
+neutral parties with no investments in relevant entities to the action.
+2. Perform regular conflict of interest compliance activities to ensure that only federal 
+employees with no conflicts of interest to the relevant action can be involved in EIS 
+decision making, although we recognize this would also require broader ethics rules 
+administration for federal employees.
+3. To balance the corporate influence in NEPA procedures, create a Community 
+Stakeholder Advisory Board with the majority of stakeholders from non-profit 
+organizations or the residential area that would assist federal agencies in EIS decision 
+making, similar to the above proposed Environment and Public Health Advisory Board.
+Although NEPA has its challenges, we recommend strategies to increase its efficiency rather 
+than removing environmental considerations - a decision that led to the Deepwater Horizon 
+disaster.
+Finally, we are very concerned about the interim final rule’s impact on removing public note and 
+comment procedures by removing CEQ’s NEPA implementation altogether. Public participation 
+in federal agency decision making is tantamount to our democracy. Removing CEQ NEPA 
+implementation revokes any civilian input to decisions that may affect their everyday lives. The 
+National Resources Defense Council, an environmental non-profit organization, wrote a 
+summary of 76 NEPA cases across the U.S. in which public participation led to a better outcome 
+than federal agency EIS consideration could have achieved alone.7 Many of these projects were 
+road and bridge construction projects, wildlife access, and energy projects - projects that are 
+fundamental to everyone who lives in the U.S. Additionally, public comments provide the scope 
+of potential problems with projects that those involved may not have thought of and possible 
+solutions and alternatives so that these projects can be conducted safely and efficiently. This will 
+                                                                                                                                                      
+5 Earl E. Devaney. U.S. Department of the Interior, Office of Inspector General. OIG Investigations of 
+MMS Employees. Sept 9, 2008. Available: https://www.doioig.gov/sites/default/files/2021-
+migration/RIKinvestigation.pdf
+6 Juliet Eilperin, “U.S. exempted BP's Gulf of Mexico drilling from environmental impact study,” The 
+Washington Post, May 5, 2010. Available: https://www.washingtonpost.com/wp-
+dyn/content/article/2010/05/04/AR2010050404118.html
+7 Elly Pepper, National Resources Defense Council. Never Eliminate Public Advice: NEPA Success 
+Stories. February 2015. Available:
+https://www.nrdc.org/resources/never-eliminate-public-advice-nepa-success-stories
+
+save billions of dollars from accidents and re-construction of projects that would initially fail 
+without valuable input from communities.
+We hope our comments are useful and not the last public comment we sent regarding CEQ 
+NEPA implementation.
+Sincerely,
+Kathryn Rodgers, MPH
+Boston University School of Public Health
+Stephanie Grady, PhD MPH
+Boston University School of Public Health
+Erin Polka, MPH
+Boston University School of Public Health
+Jean Costello, PhD
+Boston University School of Public Health
+
+--- COMMENT ID: CEQ-2025-0002-65104 AND DOCKET ID: CEQ-2025-0002 ---
+Comment by Liz Cates, Leesport, PA 
+In a time when man-made climate change and environmental degradation are upending 
+people’s lives, one would think that effective environmental laws would be protected. I 
+guess that’s too much to ask. 
+Replacing CEQ’s regulations with guidance and leaving it to federal agencies to implement 
+NEPA using their own interpretations will create confusion, inconsistency, and chaos. 
+The regulations implementing NEPA should be preserved, improved upon, and centralized. 
+The Trump administration must reverse its decision to repeal the regulations and make its 
+priority protecting the environment and all of those who depend upon it. 
+Providing guidance that says agencies should only consider “reasonably foreseeable” 
+effects, rather than cumulative impacts, diminishes the quality of the environmental review 
+and exposes the population unnecessarily to adverse impacts. 
+The people of this land deserve a healthy environment. Every aspect of American life will 
+suffer in a world of diminished environmental oversight and protection.
+
+--- COMMENT ID: CEQ-2025-0002-65795 AND DOCKET ID: CEQ-2025-0002 ---
+Comment by Peggy Berry, Dayton, Ohio 
+As a healthcare professional, I have seen what the lack of regulation does to employees 
+and the community. You can’t create a chemical without knowing the consequences of that 
+chemical on the environment. 
+Providing guidance that tells agencies to exclude consideration of environmental justice in 
+approving projects condemns our more vulnerable and historically overburdened 
+populations to more pollution, more illness and death, and more threats to public safety. 
+The regulations implementing NEPA should be preserved, improved upon, and centralized. 
+The Trump administration must reverse its decision to repeal the regulations and make its 
+priority protecting the environment and all of those who depend upon it. 
+Allowing agencies and project sponsors to determine that environmental reviews are not 
+necessary for some projects deprives members of the public of their only opportunity to 
+participate in the consideration of projects that will profoundly impact them. 
+If you want a more productive nation, worker and community health is essential. Stop 
+removing these safeguards.
+
+--- COMMENT ID: CEQ-2025-0002-87856 AND DOCKET ID: CEQ-2025-0002 ---
+1 
+ 
+ 
+ 
+Via Regulations.gov 
+ 
+March 27, 2025 
+ 
+Katherine R. Scarlett 
+Acting Chair 
+Council on Environmental Quality 
+730 Jackson Place, NW 
+Washington, D.C. 20503 
+ 
+Re: The American Exploration & Production Council’s Comments on the Interim Final 
+Rule Removing the Council for Environmental Quality’s Regulations Implementing 
+the National Environmental Policy Act (CEQ-2025-0002/90 Fed. Reg. 10,610 (Feb. 25, 
+2025)) 
+ 
+Dear Acting Chair Scarlett: 
+ 
+The American Exploration & Production Council (“AXPC”) appreciates the opportunity to 
+comment on the Council on Environmental Quality’s (“CEQ’s”) February 25, 2025 Interim Final 
+Rule (“IFR”) removing CEQ’s regulations implementing the National Environmental Policy Act 
+(“NEPA”).1 
+I. 
+AXPC’S INTERESTS 
+AXPC is a national trade association representing America's leading and most active 
+independent natural gas and crude oil exploration and production companies. AXPC companies 
+are among the cleanest and safest onshore producers of oil and natural gas in the world, while 
+supporting millions of Americans in good-paying jobs and investing a wealth of resources in our 
+communities. Dedicated to safety, science, and technological advancement, our members strive 
+to deliver affordable, reliable energy while positively impacting the economy and the 
+communities in which we live and operate. As part of this mission, AXPC members understand 
+the importance of ensuring positive environmental and public welfare outcomes and responsible 
+stewardship of the nation’s natural resources.  
+ 
+AXPC works collaboratively with regulators and policymakers to help them understand our 
+operations so that they will be able to create sound, fact-based public policies that result in the 
+safe and responsible exploration and production of America’s vast oil and natural gas resources. 
+Our goal is to provide technical and regulatory knowledge, making AXPC a rich repository of 
+resources on the industry and the science behind our operations. 
+ 
+AXPC’s members are uniquely positioned to provide comments on how the unwarranted 
+ 
+1 90 Fed. Reg. 10,610. 
+
+ 
+ 
+2 
+ 
+expansion of NEPA review processes and governing regulations affect the development of 
+projects that are vital to the American economy and national security. For example, as businesses 
+with projects that are frequently the subject of NEPA reviews, AXPC’s members have extensive 
+experience working with various agencies during the NEPA review process and can provide a 
+perspective that is particularly relevant to project-level NEPA analyses. 
+ 
+In light of our members’ frequent hands-on experience with NEPA reviews, AXPC has long 
+supported efforts to improve the efficiency and consistency of the NEPA review process while 
+also reorienting those reviews so that they more clearly focus on achieving NEPA’s central goal 
+of improving agency decision-making. Decades of increasingly confusing and ambiguous 
+analytical requirements, inconsistent agency approaches and procedures, and extensive litigation 
+have unfortunately led to excessively lengthy NEPA review documents full of information that 
+has no reasonable bearing on agencies’ decision-making processes, and increasingly protracted 
+review periods resulting from agencies compiling and reviewing information largely extraneous 
+to the decisions they had to make. In the 40 years since CEQ promulgated its first regulations 
+implementing NEPA, the average environmental impact statement (“EIS”) expanded to 661 
+pages, with over 1,000 additional pages of appendix materials.2 And the average time to 
+complete these increasingly voluminous EISs increased to roughly 4.5 years.3 
+This is not what Congress intended when it enacted NEPA.  Nor is it consistent with the NEPA 
+reform Congress more recently included in the Fiscal Responsibility Act of 2023 (“FRA”)4 in the 
+hope of reducing agencies’ unnecessarily excessive procedures and analyses, and reorienting 
+agencies’ implementation of NEPA to the efficient and effective decision-making tool that 
+Congress intended.   
+AXPC therefore welcomes this administration’s recognition of the need to substantially reform 
+the manner in which federal agencies implement NEPA.  Indeed, we believe that President 
+Trump’s January 20, 2025 Executive Order entitled Unleashing American Energy (“EO 
+14154”),5 CEQ’s February 19, 2025 Memorandum for Federal Departments and Agencies on the 
+Implementation of the National Environmental Policy Act (“February 19 Guidance”), and this 
+IFR are critical to reigning in needlessly complex and protracted NEPA reviews and facilitating 
+the efficient and statutorily-supported permitting and decision-making that are critical to 
+America’s domestic energy industry. 
+II. 
+COMMENTS ON IMPLEMENTATION OF THE IFR 
+The IFR appropriately recognizes that, irrespective of whether it has statutory authority to issue 
+regulations, CEQ continues to have an important statutorily authorized advisory role within the 
+executive branch, including as a resource for federal agencies in their implementation of NEPA.6 
+This enduring authority and obligation to coordinate the federal government’s NEPA compliance 
+and to advise agencies is critical to ensuring that the removal of CEQ’s NEPA regulations does 
+ 
+2 Council on Environmental Quality, Length of Environmental Impact Statements (2013-2018) (June 12, 2020). 
+3 Council on Environmental Quality, Environmental Impact Statement Timelines (2010-2018) (June 12, 2020). 
+4 Fiscal Responsibility Act of 2023, Pub. L. No. 118-5, 137 Stat. 10, 38 (2023).  
+5 90 Fed. Reg. 8,353 (Jan. 29, 2025). 
+6 90 Fed. Reg. at 10,611-12. 
+
+ 
+ 
+3 
+ 
+not disrupt agencies NEPA reviews nor unduly delay important permitting decisions and other 
+federal actions. 
+AXPC therefore supports the Administration’s decision to require agencies to expeditiously 
+revise or establish NEPA implementing procedures within twelve months of CEQ’s issuance of 
+the February 19 Guidance.7  We also support the manner in which CEQ has instructed agencies 
+to conduct their NEPA practices and procedures until CEQ’s rescinded NEPA regulations are 
+replaced by agency-specific implementing procedures.   
+In particular, AXPC supports allowing agencies to continue following their existing practices 
+and procedures to the extent that they are “consistent with the text of NEPA, E.O. 14154, and 
+[the February 19 Guidance].”8  We also support allowing agencies to voluntarily continue to rely 
+on rescinded CEQ regulations “in completing ongoing NEPA reviews or defending against 
+challenges to reviews completed while those regulations were in effect.”9 
+As a final note with respect to implementation of the IFR, AXPC also supports CEQ’s 
+instruction that agencies consider utilizing its final 2020 rule entitled “Update to the Regulations 
+Implementing the Procedural Provisions of the National Environmental Policy Act” (“2020 
+NEPA Regulations”),10 to guide future NEPA reviews.11 AXPC supported the 2020 NEPA 
+Regulations because we believed they provided long-overdue regulatory reforms that, if dutifully 
+implemented by agencies, could reorient the NEPA review process back to the Act’s core 
+purpose of improving agency decision- making, and away from the litigation-fueled dysfunction 
+and delay that have become the statute’s hallmarks.  As such, and as further explained below, we 
+believe it is appropriate for agencies to utilize the procedures and guidelines in the 2020 NEPA 
+Regulations to the extent those procedures and guidelines are permitted by law and consistent 
+with EO 14154 and the February 19 Guidance.  AXPC believes that doing so can help agencies 
+effectively implement the IFR without undue disruption or delay. 
+III. 
+AGENCIES’ OPPORTUNITY AND OBLIGATION TO IMPLEMENT NEPA 
+CONSISTENT WITH CONGRESSIONAL INTENT 
+NEPA is a procedural statute12 that Congress expected would facilitate “fully informed and well-
+considered” agency decisions;13 it certainly did not intend the Act’s procedural mandates to so 
+encumber agencies with extraneous analytical requirements that it would become effectively 
+ 
+7 February 19 Guidance at p. 7.   
+8 February 19 Guidance at p. 4.  
+9 February 19 Guidance at p. 4. 
+10 86 Fed. Reg. 43,304 (July 16, 2020). 
+11 February 19 Guidance at p. 4. 
+12 See 42 U.S.C. § 4332(2)(C) (agency obligation under NEPA is only to prepare detailed statement on “adverse 
+environmental effects which cannot be avoided”); See also Kleppe v. Sierra Club, 427 U.S. 390, 406 (1976) (“The 
+procedural duty imposed upon agencies by this section is quite precise…”); Vermont Yankee Nuclear Power Corp. v. 
+Natural Resources Defense Council, 435 U.S. 519, 558 (1978) (NEPA’s “mandate to the agencies is essentially 
+procedural); Ohio Forestry Ass’n v. Sierra Club, 523 U.S. 726, 737 (1998) (“NEPA… simply guarantees a particular 
+procedure, not a particular result.”); and Tenn. Valley Auth. v. Hill, 437 U.S. 153, 188 n.34 (1978) (“NEPA 
+essentially imposes a procedural requirement on agencies, requiring them to engage in an extensive inquiry as to the 
+effect of federal actions on the environment.”). 
+13 Vt. Yankee, 435 U.S. 519, 558 (1978). 
+
+ 
+ 
+4 
+ 
+impossible for agency reviews to culminate in reasonably timely decisions.  Indeed, Congress’s 
+expectation that NEPA would “create and maintain conditions under which man and nature can 
+exist in productive harmony, and fulfill the social, economic, and other requirements of present 
+and future generations of Americans”14 cannot be reconciled with decades of implementing the 
+Act such that its required reviews are now widely regarded as among the foremost obstacles to 
+developing our nation’s most critical infrastructure.     
+Despite decades of CEQ guidance and related case law acknowledging that NEPA reviews 
+should be guided by the “rule of reason,” the NEPA review process has generally remained 
+unnecessarily complex, unreasonably time-consuming, and uncertain. This complexity and delay 
+in turn acts as an impediment to investment in critical infrastructure, including projects 
+immediately needed to facilitate the safe and effective utilization of America’s critical domestic 
+energy resources. 
+This IFR and the NEPA implementing procedures federal agencies must revise or establish in the 
+next twelve months pursuant to EO 14154 and CEQ’s February 19 Guidance provide those 
+agencies a unique opportunity to address the uncertainty, inconsistency, and delay that have been 
+the hallmarks of the federal government’s implementation of NEPA for decades.  In fact, given 
+the inconsistency of many recent agency implementation practices with the statute, many 
+agencies are effectively compelled to begin implementing NEPA consistent with congressional 
+intent.   
+Furthermore, while CEQ will continue to advise and support federal agencies in their 
+implementation of NEPA, the elimination of CEQ’s broad-based regulatory requirements 
+provides each agency an opportunity to more precisely tailor its NEPA practices and procedures 
+to better reflect not only the types of actions the agency typically authorizes or permits, but also 
+the limits of agency’s statutory jurisdiction and subject matter expertise.  For example, and as 
+relevant to AXPC members, leasing and permitting of upstream oil and natural gas exploration 
+and production on federal land is largely governed by the Federal Land Policy and Management 
+Act (“FLPMA”) and the Mineral Leasing Act (“MLA”). These and other statutes prescribe the 
+requirements, procedures, and considerations the Bureau of Land Management (“BLM” or “the 
+Bureau”) must adhere to in managing public lands and making decisions about resource 
+development.  After decades of implementing these statutes and managing public lands, BLM’s 
+expertise is quite deep, but also limited by its jurisdictional reach.   
+Thus, to the fullest extent permissible under the statute, BLM should be allowed to adopt NEPA 
+implementation practices and procedures that do not require the Bureau to needlessly devote 
+resources analyzing potential indirect impacts that are outside of BLM’s jurisdiction and 
+therefore the agency’s authority to control.  
+Likewise, in light of courts’ recognition that “the rule of reason does not give agencies license to 
+fulfill their own prophecies, whatever the parochial impulses that drive them,”15 BLM’s 
+implementation practices and procedures should clearly state that the Bureau need not consider 
+alternatives that BLM lacks statutory authority to impose or enforce, or which are inconsistent 
+ 
+14 42 U.S.C. § 4331(a) (emphasis added). 
+15 Citizens Against Burlington, Inc. v. Busey, 938 F.2d 190, 196 (D.C. Cir. 1991). 
+
+ 
+ 
+5 
+ 
+with the goals of the project sponsor.  In the 2023 FRA, Congress confirmed this reasonable 
+delineation of the range of alternatives that agencies must consider in the course of their NEPA 
+reviews by amending NEPA to explicitly direct that “a reasonable range of alternatives to the 
+proposed agency action must be “technically and economically feasible, and meet the purpose 
+and need of the proposal…”16  As such, BLM and all other agencies should clarify in their 
+individual practices and procedures that they need only consider alternatives that are reasonable 
+and both technically and commercially feasible in light of the project’s purpose and the project 
+sponsor’s goals.17 
+While agencies should be afforded flexibility to tailor their NEPA implementation practices and 
+procedures to reflect their statutory authority, expertise, and most commonly permitted federal 
+actions, CEQ, through its enduring advisory role, should continue to ensure that agencies adopt 
+practices and procedures that are consistent with NEPA as amended by the FRA. In the 
+following subsections, AXPC identified three key aspects of NEPA that we believe CEQ should 
+expressly instruct agencies to account for in their NEPA implementing practices and procedures. 
+1. 
+Fully Utilize and Expand Categorical Exclusions, Programmatic Review 
+Options, and Tiering 
+CEQ should instruct agencies to streamline their environmental reviews by revising their NEPA 
+implementation practices and procedures to fully utilize available categorical exclusions and to 
+establish new categorical exclusions. As a modest first step, agencies should revise their 
+procedures to incorporate the NEPA amendments Congress included in the FRA.  These 
+amendments included multiple provisions intended to make it easier for agencies to utilize 
+categorical exclusions for NEPA compliance.   
+For instance, the 2023 NEPA amendments allow an agency to “adopt a categorical exclusion 
+listed in another agency’s NEPA procedures for a category of proposed agency actions for which 
+the categorical exclusion was established…”18  To avail itself of this flexibility, an agency must 
+“identify the categorical exclusion,” “consult with the agency that established the categorical 
+exclusion to ensure that the proposed adoption… is appropriate,” “identify to the public the 
+categorical exclusion,” and “document adoption of the categorical exclusion.”19 
+ 
+16 42 U.S.C. § 4332(C)(iii). 
+17 See Protect Our Parks Inc. v. Buttigieg, 10 F.4th 758, 764 (7th Cir. 2021) (per curiam) (“Put another way, the 
+agencies must take the objectives they are given and consider alternative means of achieving those objectives, not 
+alternative objectives.”) (citing Busey); Del. Riverkeeper Network v. U.S. Army Corps. of Eng’rs, 869 F.3d 148, 157 
+(3d Cir. 2017) (stating that an alternatives analysis involves looking to “the range of projects that could achieve the 
+same goal as the proposed project”); Webster v. USDA, 685 F.3d 411, 422-24 (4th Cir. 2012) (providing that “[i]n 
+deciding on the purposes and needs for a project, it is entirely appropriate for an agency to consider the applicant’s 
+needs and goals” and considering whether agency’s purposes and needs were consistent with statutory 
+authorization); Coal. for Advancement of Reg’l Transp. v. Fed. Highway Admin., 576 Fed. App’x. 477 (6th Cir. 
+2014) (“agenc[ies] should take into account ‘the needs and goals of the parties involved’” and “an agency should 
+always consider the views of Congress” in developing a purpose and need statement) (quoting Busey, 938 F.2d at 
+196); and HonoluluTraffic.com v. Federal Transit Admin., 742 F.3d 1222, 1230 (9th Cir. 2014). 
+18 42 U.S.C. § 4336c. 
+19 42 U.S.C. § 4336c. 
+
+ 
+ 
+6 
+ 
+In addition to counseling agencies to increasingly utilize other agencies’ categorical exclusions, 
+CEQ should also advise agencies to assess whether they routinely authorize additional categories 
+of actions that do not generally result in significant environmental impacts but are not yet 
+covered by a categorical exclusion.  To support agencies in these streamlining efforts, CEQ 
+should expand its efforts undertaken during the first Trump Administration to create a 
+centralized and readily searchable database of categorical exclusions that federal agencies and 
+project proponents alike can use to easily identify exclusions that would apply to specific federal 
+actions or which could be adopted from other agencies. 
+Most importantly, however, CEQ should instruct each federal agency to ensure that its processes 
+and procedures fully utilize currently available categorical exclusions and contain adequate 
+provisions requiring them to transparently explain precisely why the agency declined to utilize a 
+seemingly suitable categorical exclusion for a proposed federal action.  This guidance is 
+surprising necessary because, as AXPC members are aware, agencies frequently decline to 
+utilize even those categorical exclusions enacted by Congress.   
+For instance, in Section 390 of the 2005 Energy Policy Act (“2005 EPA”), Congress 
+categorically excluded five types of oil and natural gas activities from the requirement to develop 
+environmental assessments (“EAs”) and environmental impact statements (“EISs”) based on 
+Congress’ determination that these activities do not individually or cumulatively have a 
+significant effect on the human environment.20  These five categories of activities included: 
+(1) Individual surface disturbances of less than five acres so long as the total 
+surface disturbance on the lease is not greater than 150 acres and site-specific 
+analysis in a document prepared pursuant to NEPA has been previously 
+completed.  
+ 
+(2) Drilling an oil or gas well at a location or well pad site at which drilling has 
+occurred previously within five years prior to the date of spudding the well.  
+ 
+(3) Drilling an oil or gas well within a developed field for which an approved land 
+use plan or any environmental document prepared pursuant to NEPA analyzed 
+such drilling as a reasonably foreseeable activity, so long as such plan or 
+document was approved within five years prior to the date of spudding the well. 
+ 
+ (4) Placement of a pipeline in an approved right-of-way corridor, so long as the 
+corridor was approved within five years prior to the date of placement of the 
+pipeline.  
+ 
+(5) Maintenance of a minor activity, other than any construction of major 
+renovation or a building or facility.21 
+ 
+Notwithstanding that Congress statutorily required these categorical exclusions to be utilized, 
+BLM and other agencies have expansively interpreted a provision of the 2005 EPA that allowed 
+ 
+20 2005 EPA at Sec. 390(b). 
+21 2005 EPA at Sec. 390(b). 
+
+ 
+ 
+7 
+ 
+these exclusions to be rebutted only in “extraordinary circumstances,” and as a result, have rarely 
+ever applied these five statutory categorical exclusions.  This is plainly not what Congress 
+intended when it enacted Section 390 of the 2005 EPA, and it is entirely consistent with CEQ’s 
+enduring advisory role to ensure that agencies utilize categorical exclusions such as this in a 
+manner consistent with congressional intent. 
+Finally, CEQ should advise agencies to continue to streamline their NEPA processes by 
+continuing to programmatically review all general and/or programmatic permits such as the U.S. 
+Army Corps of Engineers’ nationwide permit program. CEQ should also encourage agencies to 
+revise their NEPA implementation practices and procedures to clearly and expressly state that 
+existing and completed NEPA documents can be directly relied upon in reviewing and 
+authorizing future actions as well as by using those existing documents to use used as part of 
+tiering analyses that can often allow agencies to abbreviate their reviews without sacrificing 
+analytical rigor.  Effective tiering is critical to timely reviews because it can allow agencies and 
+project proponents to avoid the need to duplicate substantial portions of completed NEPA 
+reviews. 
+ 
+2. 
+Adhere to the Deadline and Page Limits Congress included in the FRA 
+As with multiple other provisions of the NEPA amendments Congress enacted through the FRA, 
+many agencies have failed to meaningfully adopt practices and procedures to implement and 
+abide by congressionally prescribed deadlines and page limits.  To ensure that these recent 
+congressional efforts to streamline NEPA reviews are lawfully implemented and adhered to, 
+CEQ should advise agencies to expressly include these statutory deadlines and page limits in 
+their implementing procedures and practices, and to narrow as much as possible the 
+circumstances under which agencies have previously justified circumvention of these deadlines 
+and page limits. 
+For instance, Congress, through the FRA, established a one year deadline for any agency’s 
+preparation of an EA and a two year deadline for an agency’s preparation of an EIS.22  
+Nevertheless, agencies frequently exceed these deadlines, often by relying on an FRA provision 
+that allows an agency to consult with an applicant and, based on that consultation, provide “only 
+so much additional time as is necessary to complete” the EIS or EA.23  While agencies that have 
+extended their reviews using this provision of the FRA presumably did so in consultation with 
+the project proponent, in many cases the project proponents may be effectively compelled to 
+consent to the extensions based on agencies explicit or implicit threats that failures to do so may 
+lead to disapprovals.   
+CEQ should also encourage agencies to adopt practices and procedures that better allow the 
+agencies to meet the FRA’s statutory deadlines.  For example, although the FRA directed 
+agencies to establish procedures that allow a project sponsor to prepare “an environmental 
+assessment or an environmental impact statement under the supervision of the agency,”24 few 
+agencies have taken full advantage of this provision.  Thus, CEQ should counsel agencies to 
+ 
+22 42 U.S.C. § 4336a(g)(1). 
+23 42 U.S.C. § 4336a(g)(2). 
+24 42 U.S.C. § 4336(a)(f). 
+
+ 
+ 
+8 
+ 
+ensure not only that that statutory deadlines are met, but that the agencies are utilizing all of the 
+tools Congress provided to facilitate compliance with those deadlines.  
+Similarly, Congress’s NEPA amendments in the FRA set page limits of 75 pages for EAs and 
+150 pages for EISs but allows up to 300 pages for EISs involving “extraordinary complexity.”25  
+While Congress’s use of the term “extraordinary” strongly implies that Congress intended this 
+exemption to be utilized sparingly, agencies frequently far exceed the statutory page limits by 
+determining that the analyses are of “extraordinary complexity.”  Thus, we believe CEQ should 
+encourage agencies to develop practices and procedures that specify what constitutes 
+“extraordinary circumstances,” and provide guidelines to ensure that those circumstances are 
+genuinely extraordinary and rare. 
+3. 
+Acknowledge NEPA’s Procedural Role and Refrain from Mandating 
+Particular Results 
+Notwithstanding that NEPA, its legislative history, and five decades of binding Supreme Court 
+case law indisputably demonstrate that the Act “does not mandate particular results, but simply 
+describes the necessary process,”26 CEQ has previously directed agencies to use their NEPA 
+reviews to mandate particular outcomes.  Rather than establishing processes for analyzing the 
+potential environmental impacts of proposed actions, agencies were previously directed to use 
+their NEPA authority to achieve administrative environmental policy objectives. But “Congress 
+in enacting NEPA,… did not require agencies to elevate environmental concerns over other 
+appropriate considerations.”27 
+For example, agencies have previously claimed authority under NEPA to require applicants to 
+mitigate impacts of their proposed projects.  This was not permissible. NEPA “does not mandate 
+the form or adoption of any mitigation.”28  In fact, the Act “does not mandate particular 
+substantive environmental results; rather, it focuses Government and public attention on the 
+environmental effects of proposed agency action.”29  Thus, the only authority an agency has to 
+require mitigation therefore must be found in the agency’s action statute.30  As the Supreme 
+ 
+25 42 U.S.C. § 4336(a)(f). 
+26 Robertson v. Methow Valley Citizens Council, 490 U.S. 332, 350; See also Stryker’s Bay Neighborhood Council, 
+Inc. v. Karlen, 444 U.S. 223, 227-28 (1980); Dep’t of Transp. v. Pub. Citizen, 541 U.S. 752, 756-57 (2004); Vt. 
+Yankee, 435 U.S. at 558. 
+27 Baltimore Gas & Elec. Co. v. Nat. Res. Def. Council, Inc., 462 U.S. 87, 97 (1983). 
+28 40 C.F.R. § 1508(s). 
+29 Theodore Roosevelt Conservation P’ship v. Salazar, 661 F.3d 66, 68 (D.C. Cir. 2011) (quoting Marsh v. Or. 
+Natural Res. Council, 490 U.S. 360, 371 (1989)); See also Robertson v. Methow Valley Citizens Council, 490 U.S. 
+332, 350 (1989). 
+30 See Robertson, 490 U.S. at 351‐52 (“There is a fundamental distinction, however, between a requirement that 
+mitigation be discussed in sufficient detail to ensure that environmental consequences have been fairly evaluated, on 
+the one hand, and a substantive requirement that a complete mitigation plan be actually formulated and adopted, on 
+the other.”). 
+
+ 
+ 
+9 
+ 
+Court has recognized, “[o]ther statutes may impose substantive environmental obligations on 
+federal agencies, but NEPA merely prohibits uninformed-rather than unwise-agency action.”31   
+Given agencies’ previous imposition of mitigation mandates in the face of their plain 
+impermissibility, we believe it is important that CEQ counsel each federal agency to revise its 
+NEPA implementation practices and procedures to clearly state that the agency shall not require 
+project proponents to implement mitigation measures.  CEQ should further advise agencies that 
+project proponents may still voluntarily propose mitigation measures to reduce the anticipated 
+impacts of their projects, but agencies cannot require mitigation measures as part of their NEPA 
+analyses unless another applicable statute requires mitigation.   
+IV. 
+CONCLUSION 
+AXPC appreciates the opportunity to provide these comments on CEQ’s IFR. As noted 
+throughout these comments, we support this Administration’s efforts to ensure that agencies 
+implement NEPA in accordance with the text of the Act and consistent with the procedural rule 
+Congress intended.   
+AXPC believes that the IFR represents an important opportunity to reorient agencies’ NEPA 
+practices in a manner consistent with the Act’s procedural purpose and to promote efficient, fair, 
+transparent, and legally defensible permitting processes.  As this Administration understands and 
+appreciates, fully and effectively utilizing America’s domestic energy resources requires federal 
+agencies to abandon those NEPA practices and procedures that have fostered delay and 
+uncertainty at the expense of reasoned decision-making. 
+Thank you again for your consideration of these comments.  If you have any questions or would 
+like to discuss these comments, please feel free to contact Wendy Kirchoff at 281-386-7324 or 
+wendy.kirchoff@axpc.org. 
+ 
+Wendy Kirchoff 
+Senior Vice President of Policy  
+American Exploration & Production Council 
+  
+ 
+31 Methow Valley Citizens Council, 490 U.S. at 350 (comparing NEPA, which does not impose substantive 
+obligations on an agency, with Section 7 of ESA, which requires agencies to insure that its actions do not jeopardize 
+threatened or endangered species).
+
+--- COMMENT ID: CEQ-2025-0002-87240 AND DOCKET ID: CEQ-2025-0002 ---
+Comment by Aidan Aesoph, Cuddy, PA 
+Hello! I am not happy with all this nonsense of randomly dismantling a storied institution of 
+protection for our landscape. The overt refusal to consider the health, safety, and 
+prosperous future of our land over the unfounded concept of short term proﬁt is malicious 
+foolhardiness. 
+Replacing CEQ’s regulations with guidance and leaving it to federal agencies to implement 
+NEPA using their own interpretations will create confusion, inconsistency, and chaos. 
+The regulations implementing NEPA should be preserved, improved upon, and centralized. 
+The Trump administration must reverse its decision to repeal the regulations and make its 
+priority protecting the environment and all of those who depend upon it. 
+Providing guidance that says agencies should only consider “reasonably foreseeable” 
+effects, rather than cumulative impacts, diminishes the quality of the environmental review 
+and exposes the population unnecessarily to adverse impacts. 
+There is no intelligent reason to cut down NEPA; this is only short term greed and the 
+ignorance of politicians with no regard for the ecology of our country. Knock it off, thank 
+you.
